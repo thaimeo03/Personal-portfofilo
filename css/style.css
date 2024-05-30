@@ -675,8 +675,17 @@ body {
 }
 
 
+.card-body {
+  font-size: small;
+}
 
+.card-body li {
+  display: flex;
+}
 
+.card-body li span {
+  margin-left: 4px;
+}
 
 /*-----------------------------------*\
   #RESUME
